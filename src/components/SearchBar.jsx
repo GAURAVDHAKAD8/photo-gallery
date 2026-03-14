@@ -16,7 +16,7 @@ function SearchBar({
       />
       <button
         onClick={onToggleFavourites}
-        className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all duration-200 border-2 ${
+        className={`flex items-center gap-2 px-4 py-2  cursor-pointer rounded-xl font-medium transition-all duration-200 border-2 ${
           showFavourites
             ? "bg-pink-500 text-white border-pink-500 hover:bg-pink-600"
             : "bg-white text-pink-500 border-pink-300 hover:border-pink-500"
