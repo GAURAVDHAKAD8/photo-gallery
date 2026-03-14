@@ -1,3 +1,10 @@
+GitHub repo :- https://github.com/GAURAVDHAKAD8/photo-gallery
+
+live url of the app :- https://photo-gallery-ivory.vercel.app/
+
+please run npm install command before running it locally.
+
+--------------------------------------------------------------------------------------------------------------------------------
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
